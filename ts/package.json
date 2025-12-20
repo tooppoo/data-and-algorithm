@@ -1,0 +1,18 @@
+{
+  "name": "data-and-algorithms-in-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Philomagi",
+  "license": "MIT",
+  "packageManager": "pnpm@10.25.0",
+  "devDependencies": {
+    "@fast-check/vitest": "0.2.4",
+    "fast-check": "4.4.0",
+    "vitest": "4.0.16"
+  }
+}
